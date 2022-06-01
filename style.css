@@ -1,3 +1,27 @@
-body {
-    background: blue;
-  }
+body{
+    font-family:sans-serif;
+}
+#leftIntro{
+    width:40%;
+    text-align: center;
+    background-color: rgb(246, 246, 242);
+    padding:2%;
+}
+.headshot{
+    width:150px;
+    height: auto;
+    border-radius:50%;
+}
+hr{
+    width:10%;
+}
+h4{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+.social{
+    width:20px;
+    height: auto;
+    padding:5px;
+}
